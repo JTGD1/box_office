@@ -6,6 +6,6 @@ An exploration of using machine learning models to predict movie profitability -
 > "In Hollywood nobody knows anything" - [William Goldman](https://variety.com/2018/film/opinion/william-goldman-dies-appreciation-1203030781/)
 
 
-![a screenshot of slide 1 from the deck](/slide1.png)
+![](Slide1.png)
 
 
