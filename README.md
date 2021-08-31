@@ -4,7 +4,7 @@ An exploration of machine learning models to predict movie profitability - origi
 
 ###### \*As famously stated by [William Goldman](https://variety.com/2018/film/opinion/william-goldman-dies-appreciation-1203030781/)
 
-![Step 1](images_example/Step-01.png)
+!(Slide1.png)
 
 
 
